@@ -594,7 +594,7 @@ img.pull-right {
 
 .banner-item {
   min-height: 850px;
-  color: #000;
+  color: #157FF7;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -739,7 +739,7 @@ img.pull-right {
     left: 0;
     top: 0;
     margin: auto;
-    background: #fff582;
+    background: #157FF7;
     content: '';
     border-radius: 50%;
     -webkit-border-radius: 50%;
